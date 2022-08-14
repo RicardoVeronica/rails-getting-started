@@ -16,3 +16,5 @@ This project cover getting up and running with Ruby on Rails.
 - Ruby version: 3.1.2
 - Rails version: 7.0.3.1
 - sqlite3 version: 1.4
+- rspec-rails version: 5.1
+- simplecss version: 2.1.0
